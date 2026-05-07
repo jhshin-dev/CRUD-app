@@ -1,0 +1,29 @@
+# Visual Studio build output
+x64/
+x86/
+Debug/
+Release/
+ipch/
+*.VC.db
+*.VC.opendb
+*.VC.db-shm
+*.VC.db-wal
+
+# Visual Studio user-specific files
+.vs/
+*.vcxproj.user
+
+# Compiled binaries
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.exp
+*.obj
+
+# Runtime data (generated at runtime)
+data/
+
+# Claude Code internal
+.claude/
